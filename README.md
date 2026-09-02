@@ -18,7 +18,7 @@ Currently building **SleepCare** — a clinical AI platform for CPAP patient mon
 ## 🚀 Currently
 
 - 🏥 **Interning at DISP Lab** — Developing SleepCare backend & data pipeline
-- 🎓 **M1 Computer Science** @ Université Lyon 2
+- 🎓 **M2 Computer Science** @ Université Lyon 2
 - 🔍 **Actively seeking a work-study contract (alternance)** — Backend Developer · Sept 2026
 
 ---
