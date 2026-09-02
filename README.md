@@ -1,6 +1,7 @@
 <div align="right">
-  <img src="https://raw.githubusercontent.com/SiamakSm/my-views-counter/master/svg/profile/badge.svg" alt="Profile Views" />
+  <img src="https://raw.githubusercontent.com/SiamakSm/my-views-counter/master/svg/1259419142/badge.svg" alt="Profile Views" />
 </div>
+
 
 
 # Hi, I'm Siamak 👋
