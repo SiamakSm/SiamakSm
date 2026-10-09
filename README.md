@@ -1,5 +1,5 @@
 <div align="right">
-  <img src="https://raw.githubusercontent.com/SiamakSm/my-views-counter/master/svg/1259419142/badge.svg" alt="Profile Views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=SiamakSm.SiamakSm" alt="Profile Views" />
 </div>
 
 
@@ -39,7 +39,7 @@ Currently building **SleepCare** — a clinical AI platform for CPAP patient mon
 | [**SleepCare**](https://github.com/SiamakSm/sleepcare-backend) | Python · FastAPI · SQL Server | Clinical AI platform for CPAP patient monitoring |
 | [**Progress Tracker**](https://github.com/SiamakSm/progress-tracker) | Node.js · Express · PostgreSQL | Full-stack progress tracking application deployed on Render |
 | [**Python Search Motor**](https://github.com/SiamakSm/Python-Search-Motor) | Python · NLP | Data extraction and search engine |
-
+| [**LeetCode Solutions**](https://github.com/SiamakSm/leetcode-solutions) | Python | Daily algorithm practice — 5+ problems/week |
 ---
 
 ## 📫 Let's Connect
